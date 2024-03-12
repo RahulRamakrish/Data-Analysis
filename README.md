@@ -17,3 +17,5 @@ Popular Stations Analysis: Two separate graphs display the most frequented 'to' 
 
 Insights and Impact
 Through the strategic combination of SQL data manipulation and Tableau's interactive visualizations, this project unveils nuanced differences in how annual members and casual riders utilize Cyclistic bikes. Whether it's the duration of rides, preferred days of the week for cycling, or favored stations, our analysis provides valuable insights that can inform marketing strategies, operational improvements, and customer engagement initiatives for Cyclistic.
+
+TableauPublic link: https://public.tableau.com/views/caseStudy_v02/SubscriberCustomer?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
